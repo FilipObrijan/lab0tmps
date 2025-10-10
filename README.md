@@ -155,21 +155,8 @@ This simple format demonstrates the Storage abstraction - the App class doesn't 
 
 ### Code Structure Demonstration
 
-<!-- Add screenshots here showing:
-1. Class hierarchy in IDE
-2. Interface implementations
-3. Test execution results
-4. File structure in IDE
--->
+<img width="655" height="447" alt="image" src="https://github.com/user-attachments/assets/8cf0ee45-b454-41d5-9333-4894cfb36f71" />
 
-### SOLID Principles Evidence
-
-<!-- Add screenshots here showing:
-1. Storage interface with multiple implementations
-2. App class depending only on Storage interface
-3. Easy extension examples
-4. Unit tests demonstrating DIP
--->
 
 ## Conclusion
 
