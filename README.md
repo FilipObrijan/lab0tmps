@@ -150,14 +150,8 @@ This simple format demonstrates the Storage abstraction - the App class doesn't 
 
 ### Application Execution
 
-<!-- Add screenshots here showing:
-1. Compilation process
-2. Adding items to the list
-3. Listing items with status
-4. Checking off items
-5. Removing items
-6. Help command output
--->
+<img width="962" height="779" alt="image" src="https://github.com/user-attachments/assets/21e06037-a787-4bba-b9ed-23f795482b55" />
+
 
 ### Code Structure Demonstration
 
