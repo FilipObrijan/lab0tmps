@@ -65,7 +65,6 @@ java -cp "target/classes" com.grocery.GroceryApp remove 2
 ## SOLID Principles Applied
 
 ### 1. Single Responsibility Principle (SRP)
-*"A class should have only one reason to change"*
 
 **Implementation:**
 - `Item.java` → Responsible only for data representation
@@ -76,7 +75,6 @@ java -cp "target/classes" com.grocery.GroceryApp remove 2
 **Benefit:** Changes to storage format don't affect business logic. Changes to CLI don't affect core functionality.
 
 ### 2. Dependency Inversion Principle (DIP)
-*"Depend on abstractions, not concretions"*
 
 **Implementation:**
 - `App` class depends on `Storage` interface, not concrete implementations
@@ -97,7 +95,6 @@ public class App {
 **Benefit:** Easy testing, swappable storage providers, isolated components.
 
 ### 3. Open/Closed Principle (OCP)
-*"Open for extension, closed for modification"*
 
 **Implementation:**
 - New storage types (DatabaseStorage, CloudStorage) can be added by implementing `Storage` interface
