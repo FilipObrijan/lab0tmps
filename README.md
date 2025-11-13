@@ -147,12 +147,12 @@ This simple format demonstrates the Storage abstraction - the App class doesn't 
 
 ### Application Execution
 
-<img width="962" height="779" alt="image" src="https://github.com/user-attachments/assets/21e06037-a787-4bba-b9ed-23f795482b55" />
+<img width="962" height="779" alt="image" src="SS1.png" />
 
 
 ### Code Structure Demonstration
 
-<img width="655" height="447" alt="image" src="https://github.com/user-attachments/assets/8cf0ee45-b454-41d5-9333-4894cfb36f71" />
+<img width="655" height="447" alt="image" src="SS2.png" />
 
 
 ## Conclusion
