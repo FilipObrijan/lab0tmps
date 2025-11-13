@@ -7,12 +7,12 @@
 ## Files Created
 
 ### Core Application
-- `src/main/java/com/grocery/Item.java` - Data model class
-- `src/main/java/com/grocery/Storage.java` - Storage interface  
-- `src/main/java/com/grocery/MemoryStorage.java` - In-memory implementation
-- `src/main/java/com/grocery/FileStorage.java` - File-based implementation
-- `src/main/java/com/grocery/App.java` - Core business logic
-- `src/main/java/com/grocery/GroceryApp.java` - CLI entry point
+- `src/main/java/com/grocery/Item.java` - Data model class!
+- `src/main/java/com/grocery/Storage.java` - Storage interface!  
+- `src/main/java/com/grocery/MemoryStorage.java` - In-memory implementation!
+- `src/main/java/com/grocery/FileStorage.java` - File-based implementation!
+- `src/main/java/com/grocery/App.java` - Core business logic!
+- `src/main/java/com/grocery/GroceryApp.java` - CLI entry point!
 
 ### Tests & Build
 - `src/test/java/com/grocery/AppTest.java` - Unit tests using MemoryStorage
