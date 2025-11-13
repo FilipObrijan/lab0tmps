@@ -3,11 +3,6 @@ package com.grocery;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * MemoryStorage implementation - follows DIP and SRP
- * Responsibility: In-memory storage for testing
- * DIP: Implements Storage interface, can be swapped without changing App
- */
 public class MemoryStorage implements Storage {
     private final List<Item> items = new ArrayList<>();
     

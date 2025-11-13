@@ -4,10 +4,6 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Objects;
 
-/**
- * Item model class - follows Single Responsibility Principle (SRP)
- * Responsibility: Data representation for grocery items only
- */
 public class Item {
     private final int id;
     private final String name;

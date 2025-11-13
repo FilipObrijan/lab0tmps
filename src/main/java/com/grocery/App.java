@@ -2,14 +2,7 @@ package com.grocery;
 
 import java.util.List;
 import java.util.Optional;
-
-/**
- * App class - demonstrates all three SOLID principles:
- * 
- * SRP: Only handles business logic for grocery operations
- * DIP: Depends on Storage abstraction, not concrete implementations
- * OCP: Open for extension (new commands), closed for modification
- */
+// still thinking
 public class App {
     private final Storage storage;
     private int nextId = 1;

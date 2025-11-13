@@ -2,12 +2,6 @@ package com.grocery;
 
 import java.util.List;
 
-/**
- * GroceryApp main class - follows Single Responsibility Principle (SRP)
- * Responsibility: CLI argument parsing and command delegation only
- * 
- * Demonstrates OCP: New commands can be added without modifying App class
- */
 public class GroceryApp {
     private static final String STORAGE_FILE = "grocery-list.json";
     
